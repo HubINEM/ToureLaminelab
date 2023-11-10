@@ -1,5 +1,5 @@
 ### Hi there 👋
-<b> I'm a data scientist/bioinformatician ingeneer at INEM-Institut Necker Enfants Malades :). Working on Single Cell data</b>
+<b> I'm a data scientist/bioinformatician ingeneer at INEM-Institut Necker Enfants Malades. Working on Single Cell data.</b>
 ## ***Connect***
 
 ***Feel free to contact me for any questions, I would be delighted to help.***
